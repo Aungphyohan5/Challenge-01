@@ -15,10 +15,10 @@ In this project, I am going to perform a code base that follows accessibility st
 ## Tasks Completed
 
 - Updated title from Website to Horiseon
-- Semantic HTML elements were replaced instead of div
+- Semantic HTML elements were replaced 
 - Added alt text to images
-- Debugged the link error for "Search Engine Optimization
-- Classes and elements are seperated in CSS
+- Debugged the link error for "Search Engine Optimization"
+- Classes and elements were separated in CSS
 
 
 ## Links
